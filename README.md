@@ -36,7 +36,7 @@ Bu proje, bir üniversite kütüphanesinin işleyişini yönetmek için gelişti
 ### *Adımlar*
 1. *Projenin Klonlanması*
    bash
-   git clone https://github.com/kullaniciadi/universite-kutuphane-yonetim-sistemi.git
+   git clone https://github.com/AdiDayat12/universite-kutuphane-yonetim-sistemi.git
    cd universite-kutuphane-yonetim-sistemi
    
 
