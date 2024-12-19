@@ -1,8 +1,11 @@
 # Üniversite Kütüphane Yönetim Sistemi
+### Destek olan kişi : Abdulkadir Kılıç (https://github.com/Abdulkadirkilicc)
+---
 
 Bu proje, bir üniversite kütüphanesinin işleyişini yönetmek için geliştirilmiş bir *Kütüphane Yönetim Sistemi* yazılımıdır. Kullanıcılar kitap arayabilir, ödünç alabilir, iade edebilir ve yöneticiler kütüphane envanterini yönetebilir.
 
 ---
+
 
 ## *Projenin Özellikleri*
 
